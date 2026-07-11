@@ -9,5 +9,3 @@ Every project ships as The Blueprint: a living environment where anyone on your 
 Prefer full independence? Choose Autonomous Exit: the complete export, unconditionally yours from that point on. Zero vendor lock-in, by design.
 
 [vanrink.com](https://vanrink.com)
-
-<img width="1920" height="1081" alt="IO-Supply_guidelines" src="https://github.com/user-attachments/assets/570b77ce-9ade-423f-8555-28ed174fa462" />
