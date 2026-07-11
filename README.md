@@ -1,4 +1,4 @@
-### Demy Rink — Brand Systems Architect at RINK®
+### Demy Rink - Brand Systems Architect at RINK®
 
 I build brands where mathematical precision meets uncompromising aesthetics. 
 
