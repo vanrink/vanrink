@@ -8,4 +8,4 @@ Every project ships as The Blueprint: a living environment where anyone on your 
 
 Prefer full independence? Choose Autonomous Exit: the complete export, unconditionally yours from that point on. Zero vendor lock-in, by design.
 
-[vanrink.com](https://vanrink.com) | [LinkedIn]([https://linkedin.com/in/demyrink/]
+[vanrink.com](https://vanrink.com) | [LinkedIn](https://linkedin.com/in/demyrink/)
