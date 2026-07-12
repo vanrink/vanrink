@@ -9,5 +9,3 @@ Every project ships as The Blueprint: a living environment where anyone on your 
 Prefer full independence? Choose Autonomous Exit: the complete export, unconditionally yours from that point on. Zero vendor lock-in, by design.
 
 Let's get in touch - Demy Rink
-
-<img width="3692" height="923" alt="rink_cover_minimal" src="https://github.com/user-attachments/assets/b42bfc0a-8649-4b04-9ec6-07bbc1116b02" />
